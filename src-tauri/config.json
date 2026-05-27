@@ -1,0 +1,23 @@
+[
+  {
+    "id": "cpuz",
+    "name": "CPU-Z",
+    "description": "CPU 检测工具，查看处理器详细信息",
+    "icon": "icons/cpuz.png",
+    "path": "tools/CPUZ/cpuz_x64.exe"
+  },
+  {
+    "id": "gpuz",
+    "name": "GPU-Z",
+    "description": "显卡检测工具，查看显卡详细信息",
+    "icon": "icons/gpuz.png",
+    "path": "tools/GPUZ/GPU-Z.exe"
+  },
+  {
+    "id": "crystaldiskmark",
+    "name": "CrystalDiskMark",
+    "description": "硬盘性能测试工具",
+    "icon": "icons/crystaldiskmark.png",
+    "path": "tools/CrystalDiskMark/DiskMark64S.exe"
+  }
+]

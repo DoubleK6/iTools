@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm --version)",
+      "Bash(npm install *)",
+      "Bash(pnpm create *)",
+      "Bash(npm create *)",
+      "Bash(pnpm install *)",
+      "Bash(pnpm approve-builds *)",
+      "Bash(pnpm dev *)",
+      "Bash(python *)",
+      "Bash(pnpm build *)",
+      "Bash(cargo build *)",
+      "Bash(./src-tauri/target/release/itools.exe *)",
+      "Bash(./target/release/itools.exe *)"
+    ]
+  }
+}
