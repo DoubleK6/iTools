@@ -83,7 +83,7 @@
     {/if}
 
     <div class="warning">
-      <strong>注意：</strong>写入 SN 码需要管理员权限，且需要 AMIDEWIN.exe 放置在 src-tauri/sidecars/ 目录下。
+      <strong>注意：</strong>写入 SN 码需要管理员权限，且写入成功后需重启电脑才能全局生效。
     </div>
   </div>
 </div>

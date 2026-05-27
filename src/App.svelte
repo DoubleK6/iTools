@@ -57,7 +57,7 @@
         {#each tools as tool}
           <ToolCard {tool} on:launch={() => handleLaunch(tool.path)} />
         {:else}
-          <p class="empty">暂无工具，请在 src-tauri/tools.json 中配置</p>
+          <p class="empty">暂无工具，请在 config/config.json 中配置</p>
         {/each}
       </div>
     {:else}
