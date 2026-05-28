@@ -25,6 +25,7 @@ RestartIfNeededByRun=no
 ;安装包文件的图标
 SetupIconFile=D:\03Work\01pack_setup\iTools\icons\icon.ico
 
+
 [Files]
 ; 复制整个 iTools 目录下的所有文件及子文件夹
 Source: "D:\03Work\01pack_setup\iTools\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
